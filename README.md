@@ -126,3 +126,5 @@ Virtual Machine Setup Process:
 I have created 2 virtual machines by using Ubuntu iso and centOS iso.
 
 It can be done either manually or could be done automatically by using Vagrant commands with many other editable functions.
+
+# Commands of Vagrant
